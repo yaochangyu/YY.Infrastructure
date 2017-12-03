@@ -10,5 +10,6 @@
   </PropertyGroup>
   <ItemGroup>
     <Compile Include="$(MSBuildThisFileDirectory)SequentialGuid.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)SequentialGuidComparer.cs" />
   </ItemGroup>
 </Project>

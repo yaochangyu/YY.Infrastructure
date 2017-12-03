@@ -7,6 +7,8 @@ Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "YY.Infrastructure", "YY.Inf
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YY.Infrastructure.NET40", "YY.Infrastructure.NET40\YY.Infrastructure.NET40.csproj", "{E64B6352-43B1-49BD-BA77-7F9C62BEB672}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YY.Infrastructure.UnitTest", "YY.Infrastructure.UnitTest\YY.Infrastructure.UnitTest.csproj", "{63678324-587C-4EE3-B9DC-6759EB75A5E6}"
+EndProject
 Global
 	GlobalSection(SharedMSBuildProjectFiles) = preSolution
 		YY.Infrastructure\YY.Infrastructure.projitems*{990c24cc-ce94-49e0-8f3e-ed77fa02b8a5}*SharedItemsImports = 13
@@ -21,6 +23,10 @@ Global
 		{E64B6352-43B1-49BD-BA77-7F9C62BEB672}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E64B6352-43B1-49BD-BA77-7F9C62BEB672}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E64B6352-43B1-49BD-BA77-7F9C62BEB672}.Release|Any CPU.Build.0 = Release|Any CPU
+		{63678324-587C-4EE3-B9DC-6759EB75A5E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63678324-587C-4EE3-B9DC-6759EB75A5E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63678324-587C-4EE3-B9DC-6759EB75A5E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63678324-587C-4EE3-B9DC-6759EB75A5E6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
